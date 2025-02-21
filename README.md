@@ -1,8 +1,19 @@
 # AI Story Generator
+```
+           _____    _____ _                      _____                           _             
+     /\   |_   _|  / ____| |                    / ____|                         | |            
+    /  \    | |   | (___ | |_ ___  _ __ _   _  | |  __  ___ _ __   ___ _ __ __ _| |_ ___  _ __ 
+   / /\ \   | |    \___ \| __/ _ \| '__| | | | | | |_ |/ _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|
+  / ____ \ _| |_   ____) | || (_) | |  | |_| | | |__| |  __/ | | |  __/ | | (_| | || (_) | |   
+ /_/    \_\_____| |_____/ \__\___/|_|   \__, |  \_____|\___|_| |_|\___|_|  \__,_|\__\___/|_|   
+                                         __/ |                                                 
+                                        |___/                                                  
+
+```
 
 ## 📖 Project Overview
 The **AI Story Generator** is a powerful tool that leverages OpenAI's GPT-4 and DALL-E 3 to create immersive, illustrated stories. It generates dynamic story chapters with AI-crafted content and images, compiling them into a professional-quality PDF.
-## Checkout the samples it generated
+## 📚 Checkout the samples it generated
 - [Peeking Into Future](outputs/peeking_into_future.pdf)
 - [Time Travel Adventure](outputs/time_travel_adventure.pdf)
 
