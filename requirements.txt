@@ -1,3 +1,7 @@
 openai
 pydantic
 pillow
+reportlab
+langchain_core
+langchain_openai
+python-dotenv
